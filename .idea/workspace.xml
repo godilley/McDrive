@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/McDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="592">
-              <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding>
                 <element signature="e#8006#8296#0" expanded="true" />
                 <element signature="e#8295#8296#0" expanded="true" />
@@ -62,8 +62,8 @@
       <file leaf-file-name="PoliceReport.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/ClassSaving/PoliceReport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state relative-caret-position="178">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -103,7 +106,6 @@
         <option value="$PROJECT_DIR$/plugin.yml" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/Methods/PlayerIDMethods.java" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/ReportStatus.java" />
-        <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/ClassSaving/PoliceReport.java" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/Saving/PoliceReportSave.java" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Commands/ReportCommands.java" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/Gender.java" />
@@ -119,6 +121,7 @@
         <option value="$PROJECT_DIR$/.idea/libraries/spigot_1_9.xml" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/McDrive.java" />
         <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/Saving/PlayerIDSave.java" />
+        <option value="$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/ClassSaving/PoliceReport.java" />
       </list>
     </option>
   </component>
@@ -662,12 +665,12 @@
       <workItem from="1490703306665" duration="610000" />
       <workItem from="1509212183437" duration="167000" />
       <workItem from="1516317046161" duration="40000" />
-      <workItem from="1517107360916" duration="47000" />
+      <workItem from="1517107360916" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63138000" />
+    <option name="totallyTimeSpent" value="63472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -680,7 +683,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1050,7 +1053,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/McDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="592">
-          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
             <element signature="e#8006#8296#0" expanded="true" />
             <element signature="e#8295#8296#0" expanded="true" />
@@ -1076,8 +1079,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dachiimp/requests/mcdrive/Util/ClassSaving/PoliceReport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        <state relative-caret-position="178">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
