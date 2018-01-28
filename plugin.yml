@@ -1,0 +1,15 @@
+name: McDrive
+version: 1.0
+main: com.dachiimp.requests.mcdrive.McDrive
+author: DaChiimp
+commands:
+  police:
+    description: Open police report GUI
+  pc:
+    description: Send a message to police chat
+  pr:
+    description: View police reports
+  id:
+    description: Base command for all id related commands
+  mcd:
+    description: Base command for various things

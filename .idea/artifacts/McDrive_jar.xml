@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="McDrive:jar">
+    <output-path>G:/Dropbox/Virtual Minecraft Server/plugins</output-path>
+    <root id="archive" name="McDrive.jar">
+      <element id="module-output" name="McDrive" />
+      <element id="file-copy" path="$PROJECT_DIR$/messages.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/PlayerIDs.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/PoliceReports.yml" />
+    </root>
+  </artifact>
+</component>

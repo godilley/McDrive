@@ -1,0 +1,19 @@
+saveInterval: 10
+# Time in minutes data is saved
+reportNames:
+  - "Type"
+  - "the"
+  - "available"
+  - "crimes"
+  - "in"
+  - "here"
+  - "to"
+  - "add"
+  - "them"
+  - "Then"
+  - "you"
+  - "can"
+  - "reload"
+  - "with"
+  - "mcd"
+  - "reload"
