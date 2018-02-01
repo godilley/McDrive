@@ -1,7 +1,5 @@
 # McDrive
-*A plugin I created for a client which is no longer in business*
-
-**Note: This plugin needs finishing. I have made a good start.**
+*A plugin I created for a client which is no longer in business
 
 ## About:
 - This is a plugin created for a request, however the client is no longer in business
